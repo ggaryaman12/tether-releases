@@ -3,12 +3,12 @@
     <channel>
         <title>tether</title>
         <item>
-            <title>0.17.5</title>
-            <pubDate>Thu, 01 Oct 2026 07:57:02 +0000</pubDate>
-            <sparkle:version>0.17.5</sparkle:version>
-            <sparkle:shortVersionString>0.17.5</sparkle:shortVersionString>
+            <title>0.17.6</title>
+            <pubDate>Tue, 06 Oct 2026 13:35:52 +0000</pubDate>
+            <sparkle:version>0.17.6</sparkle:version>
+            <sparkle:shortVersionString>0.17.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ggaryaman12/tether-releases/releases/latest/download/tether-macos.zip" length="43194188" type="application/octet-stream" sparkle:edSignature="i2obkfqKCgMSpGuEeBL9WW5XQgfSr0hvVgt752ltPRrSErzaRC4ve6qczegDkRi2PjBBPmtJpzRZmzJBCxO6CQ=="/>
+            <enclosure url="https://github.com/ggaryaman12/tether-releases/releases/latest/download/tether-macos.zip" length="43142757" type="application/octet-stream" sparkle:edSignature="hiYivbeyLvCZoLi79P3Rn4YfIl4wnz1uVB1hCi0UoWW9Etfam2JSiovoj03n+mKhs9khFRrzTWA/FoZND8XLDA=="/>
         </item>
     </channel>
 </rss>
